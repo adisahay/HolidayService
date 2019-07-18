@@ -8,5 +8,6 @@ Use the following command to start the service:
 python HolidayServer.py
 ```
 
-The endpoint "/holidays" returns a list of upto 10 upcoming holidays in the US.
+The endpoint `/holidays` returns a list of upto 10 upcoming holidays in the US.
+
 To filter based on holiday-type, use the parameter `holidayType=<type>`, e.g. `/holidays?holidayType=federal`.
