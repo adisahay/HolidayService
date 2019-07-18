@@ -1,5 +1,5 @@
 # Holiday Service
-A Python service to fetch a list of up to next 10 US holidays
+A Python service to fetch a list of up to 10 upcoming US holidays
 
 The data is fetched from https://www.timeanddate.com/holidays/us/ and is stored in the file __holidays.csv__.
 
